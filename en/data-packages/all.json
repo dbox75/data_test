@@ -1431,30 +1431,6 @@
       "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
-      "path": "17-15-1/data.csv",
-      "name": "17-15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
-    },
-    {
       "path": "17-17-1/data.csv",
       "name": "17-17-1",
       "profile": "tabular-data-resource",
@@ -3085,30 +3061,6 @@
         ]
       },
       "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms"
-    },
-    {
-      "path": "17-14-1/data.csv",
-      "name": "17-14-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
     },
     {
       "path": "4-6-1/data.csv",
