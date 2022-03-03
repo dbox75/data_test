@@ -2271,30 +2271,6 @@
       "title": "Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas"
     },
     {
-      "path": "17-7-1/data.csv",
-      "name": "17-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total de los fondos destinados a los países en desarrollo a fin de promover el desarrollo, la transferencia y la difusión de tecnologías ecológicamente racionales"
-    },
-    {
       "path": "16-2-3/data.csv",
       "name": "16-2-3",
       "profile": "tabular-data-resource",

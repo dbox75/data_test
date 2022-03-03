@@ -2271,30 +2271,6 @@
       "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
     },
     {
-      "path": "17-7-1/data.csv",
-      "name": "17-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
-    },
-    {
       "path": "16-2-3/data.csv",
       "name": "16-2-3",
       "profile": "tabular-data-resource",
