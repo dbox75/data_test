@@ -1287,30 +1287,6 @@
       "title": "Cantidades proporcionadas y movilizadas en dólares de los Estados Unidos al año en relación con el objetivo actual mantenido de movilización colectiva de 100.000 millones de dólares de aquí a 2025"
     },
     {
-      "path": "17-4-1/data.csv",
-      "name": "17-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Servicio de la deuda en proporción a las exportaciones de bienes y servicios"
-    },
-    {
       "path": "14-2-1/data.csv",
       "name": "14-2-1",
       "profile": "tabular-data-resource",

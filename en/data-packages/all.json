@@ -1287,30 +1287,6 @@
       "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
     },
     {
-      "path": "17-4-1/data.csv",
-      "name": "17-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Debt service as a proportion of exports of goods and services"
-    },
-    {
       "path": "14-2-1/data.csv",
       "name": "14-2-1",
       "profile": "tabular-data-resource",
