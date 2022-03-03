@@ -2031,30 +2031,6 @@
       "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
     },
     {
-      "path": "17-18-2/data.csv",
-      "name": "17-18-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
-    },
-    {
       "path": "8-4-2/data.csv",
       "name": "8-4-2",
       "profile": "tabular-data-resource",
