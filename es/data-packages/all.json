@@ -279,6 +279,30 @@
       "title": "Número de países que adoptan y aplican sistemas de promoción de las inversiones en favor de los países en desarrollo, entre ellos los países menos adelantados"
     },
     {
+      "path": "17-18-3/data.csv",
+      "name": "17-18-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de países que cuentan con un plan estadístico nacional plenamente financiado y en proceso de aplicación, desglosado por fuente de financiación"
+    },
+    {
       "path": "16-6-1/data.csv",
       "name": "16-6-1",
       "profile": "tabular-data-resource",
@@ -1407,6 +1431,30 @@
       "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)"
     },
     {
+      "path": "17-17-1/data.csv",
+      "name": "17-17-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Suma en dólares de los Estados Unidos prometida a las alianzas público-privadas centradas en la infraestructura"
+    },
+    {
       "path": "8-2-1/data.csv",
       "name": "8-2-1",
       "profile": "tabular-data-resource",
@@ -1935,6 +1983,30 @@
       "title": "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos"
     },
     {
+      "path": "17-19-1/data.csv",
+      "name": "17-19-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Valor en dólares de todos los recursos proporcionados para fortalecer la capacidad estadística de los países en desarrollo"
+    },
+    {
       "path": "2-2-3/data.csv",
       "name": "2-2-3",
       "profile": "tabular-data-resource",
@@ -1981,6 +2053,30 @@
         ]
       },
       "title": "Existencia de una estrategia nacional organizada y en marcha para el empleo de los jóvenes, como estrategia independiente o como parte de una estrategia nacional de empleo"
+    },
+    {
+      "path": "17-18-2/data.csv",
+      "name": "17-18-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de países cuya legislación nacional sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales"
     },
     {
       "path": "8-4-2/data.csv",
@@ -3565,6 +3661,30 @@
         ]
       },
       "title": "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB"
+    },
+    {
+      "path": "17-19-2/data.csv",
+      "name": "17-19-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de países que a) han realizado al menos un censo de población y vivienda en los últimos diez años; y b) han registrado el 100% de los nacimientos y el 80% de las defunciones"
     },
     {
       "path": "15-5-1/data.csv",
@@ -5317,6 +5437,30 @@
         ]
       },
       "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres"
+    },
+    {
+      "path": "17-18-1/data.csv",
+      "name": "17-18-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Indicador de capacidad estadística para el seguimiento de los Objetivos de Desarrollo Sostenible"
     },
     {
       "path": "8-8-1/data.csv",
