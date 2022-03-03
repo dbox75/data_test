@@ -1431,54 +1431,6 @@
       "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
-      "path": "17-15-1/data.csv",
-      "name": "17-15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
-    },
-    {
-      "path": "17-17-1/data.csv",
-      "name": "17-17-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
-    },
-    {
       "path": "8-2-1/data.csv",
       "name": "8-2-1",
       "profile": "tabular-data-resource",
@@ -3493,30 +3445,6 @@
         ]
       },
       "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
-    },
-    {
-      "path": "17-16-1/data.csv",
-      "name": "17-16-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
       "path": "14-4-1/data.csv",
