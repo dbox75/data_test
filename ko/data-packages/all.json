@@ -843,6 +843,30 @@
       "title": "심혈관계질환, 암, 당뇨 또는 만성호흡기질환 사망률"
     },
     {
+      "path": "14-2-1/data.csv",
+      "name": "14-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "생태계 기반의 접근방식으로 해양지역을 관리하는 국가 수"
+    },
+    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
@@ -2641,6 +2665,30 @@
         ]
       },
       "title": "(i) 세계시민교육 (ii)지속가능발전교육이 (a)국가교육정책 (b) 교육과정 (c) 교사교육 (d) 학생평가 영역에서 주류화 된 정도"
+    },
+    {
+      "path": "14-1-1/data.csv",
+      "name": "14-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "(a) 연안해역 부영양화지수* 및 (b) 부유성 플라스틱 부유성 폐기물 밀도"
     },
     {
       "path": "8-9-1/data.csv",
