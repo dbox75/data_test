@@ -4,7 +4,7 @@ computation_definitions: >-
   UN SDGs 지표에 대응하는 국내 통계가 없는 경우에 국제기구통계를 통해 모니터링 중입니다. 
 
 SDG_GOAL: >-
-  Goal 1: End poverty in all its forms everywhere
+  Goal 1: End poverty in all its forms everywhere?
 SDG_TARGET: >-
   Target 1.1: By 2030, eradicate extreme poverty for all people everywhere,
   currently measured as people living on less than $1.25 a day
