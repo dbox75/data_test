@@ -579,30 +579,6 @@
       "title": "(a) 성인 십만 명당 상업은행 지점들과 (b) 성인 십만 명당 ATM의 개수"
     },
     {
-      "path": "16-1-2/data.csv",
-      "name": "16-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "인구 1십만 명당 분쟁관련 사망자수의 성, 연령 및 사유별 현황"
-    },
-    {
       "path": "10-7-2/data.csv",
       "name": "10-7-2",
       "profile": "tabular-data-resource",
