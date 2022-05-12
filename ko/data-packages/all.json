@@ -2763,30 +2763,6 @@
       "title": "무역원조(Aid for Trade) 약정 및 지불"
     },
     {
-      "path": "12-7-1/data.csv",
-      "name": "12-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "지속 가능한 공공 조달 정책과 실행 계획 이행 정도"
-    },
-    {
       "path": "10-1-1/data.csv",
       "name": "10-1-1",
       "profile": "tabular-data-resource",
