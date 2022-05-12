@@ -867,30 +867,6 @@
       "title": "개도국의 하이브리드 시스템을 포함한 재생 에너지 및 청정에너지 연구 개발과 재생에너지생산을 지원하는 국제 자금 흐름"
     },
     {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "식량손실지수 및 식량폐기지수"
-    },
-    {
       "path": "9-2-1/data.csv",
       "name": "9-2-1",
       "profile": "tabular-data-resource",
