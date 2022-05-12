@@ -3795,6 +3795,30 @@
       "title": "통합 수자원관리 이행 정도"
     },
     {
+      "path": "15-7-1/data.csv",
+      "name": "15-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "불법적으로 거래되거나 밀렵된 야생생물의 거래 비율"
+    },
+    {
       "path": "7-b-1/data.csv",
       "name": "7-b-1",
       "profile": "tabular-data-resource",
