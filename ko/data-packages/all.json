@@ -1707,30 +1707,6 @@
       "title": "교육, 취업, 혹은 훈련 상태에 있지 않은 청소년(15-24세)의 비율"
     },
     {
-      "path": "16-4-1/data.csv",
-      "name": "16-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "국내외 불법금융거래의 총 가액 (현 미국달러화 기준)"
-    },
-    {
       "path": "3-8-1/data.csv",
       "name": "3-8-1",
       "profile": "tabular-data-resource",
