@@ -2355,30 +2355,6 @@
       "title": "압수, 적발, 회수된 무기 중 국제법제에 따라 유관당국에 의해 불법성이 추적, 확인된 비율"
     },
     {
-      "path": "16-7-1/data.csv",
-      "name": "16-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "국가전체 대비 공공기관(국가 및 지방 입법부, 행정부, 사법부) 내 성별, 연령, 장애여부 등 인구집단별 보직분포 비율"
-    },
-    {
       "path": "9-c-1/data.csv",
       "name": "9-c-1",
       "profile": "tabular-data-resource",
@@ -4537,30 +4513,6 @@
         ]
       },
       "title": "국토면적 대비 황폐화 지역 비율"
-    },
-    {
-      "path": "16-6-2/data.csv",
-      "name": "16-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "가장 최근에 경험한 공공서비스에 대해 만족하는 인구비율"
     },
     {
       "path": "7-1-1/data.csv",
