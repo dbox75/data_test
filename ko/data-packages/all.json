@@ -3915,30 +3915,6 @@
       "title": "여성 청소년(10-14세, 15-19세) 출산율"
     },
     {
-      "path": "15-3-1/data.csv",
-      "name": "15-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "국토면적 대비 황폐화 지역 비율"
-    },
-    {
       "path": "7-1-1/data.csv",
       "name": "7-1-1",
       "profile": "tabular-data-resource",
