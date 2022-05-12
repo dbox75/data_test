@@ -843,30 +843,6 @@
       "title": "성평등과 여성의 권한강화를 위해 공공자원을 할당하고 추적하는 시스템을 갖춘 국가의 비율"
     },
     {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "인구 1십만 명당 고의에 의한 살인범죄 피해자수의 성 및 연령별 현황"
-    },
-    {
       "path": "3-d-2/data.csv",
       "name": "3-d-2",
       "profile": "tabular-data-resource",
@@ -913,30 +889,6 @@
         ]
       },
       "title": "GDP 대비 노동소득 비율"
-    },
-    {
-      "path": "15-c-1/data.csv",
-      "name": "15-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "불법적으로 거래되거나 밀렵된 야생생물의 거래 비율"
     },
     {
       "path": "8-2-1/data.csv",
