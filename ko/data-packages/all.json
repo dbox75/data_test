@@ -771,30 +771,6 @@
       "title": "중위소득 50% 미만 인구의 성, 연령 및 장애별 비율"
     },
     {
-      "path": "16-10-1/data.csv",
-      "name": "16-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "지난 12개월 동안 언론인, 관련 미디어 종사자, 노동조합원 및 인권운동가를 대상으로 한 살인, 납치, 실종, 강제구금 및 고문 건수"
-    },
-    {
       "path": "10-4-2/data.csv",
       "name": "10-4-2",
       "profile": "tabular-data-resource",
