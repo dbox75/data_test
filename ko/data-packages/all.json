@@ -1347,30 +1347,6 @@
       "title": "필수 의약품을 적당한 가격으로 지속적으로 구입할 수 있는 의료시설 비율"
     },
     {
-      "path": "15-5-1/data.csv",
-      "name": "15-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "적색목록지수"
-    },
-    {
       "path": "5-a-1/data.csv",
       "name": "5-a-1",
       "profile": "tabular-data-resource",
