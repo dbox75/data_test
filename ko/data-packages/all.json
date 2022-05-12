@@ -3819,30 +3819,6 @@
       "title": "통합 수자원관리 이행 정도"
     },
     {
-      "path": "15-9-1/data.csv",
-      "name": "15-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "(a) 생물다양성 증진을 위한 아이치목표 타겟2에 따라 국가 차원의 목표를 수립한 국가의 수와 그 목표에 따른 보고 진전도 (b) 환경경제계정* 구현을 위한 국가 회계 및 보고 시스템과 생태다양성의 통합"
-    },
-    {
       "path": "15-7-1/data.csv",
       "name": "15-7-1",
       "profile": "tabular-data-resource",
@@ -4513,30 +4489,6 @@
         ]
       },
       "title": "총 및 1인당 물질발자국, GDP 대비 물질발자국"
-    },
-    {
-      "path": "15-a-1/data.csv",
-      "name": "15-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "(a) 생물 다양성의 보존과 지속가능한 이용을 위한 ODA* (b) 생물다양성 관련 경제기구로부터 발생한 이윤과 모금 재정"
     },
     {
       "path": "8-3-1/data.csv",
