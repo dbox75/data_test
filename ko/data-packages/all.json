@@ -291,30 +291,6 @@
       "title": "물 스트레스 수준"
     },
     {
-      "path": "14-6-1/data.csv",
-      "name": "14-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "불법·비보고·비규제 어업을 근절하기 위한 국제적 수단 이행 정도"
-    },
-    {
       "path": "7-1-2/data.csv",
       "name": "7-1-2",
       "profile": "tabular-data-resource",
@@ -697,30 +673,6 @@
         ]
       },
       "title": "주변 수질이 양호한 수계(bodies of water)*의 비율"
-    },
-    {
-      "path": "14-7-1/data.csv",
-      "name": "14-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "군소도서 개발국*, 최빈개도국 그리고 모든 국가의 GDP 중 지속가능한 어업 비율"
     },
     {
       "path": "5-c-1/data.csv",
@@ -3961,30 +3913,6 @@
         ]
       },
       "title": "이주국가에서 얻은 월소득 대비 이주노동자가 부담하는 고용비용의 비율"
-    },
-    {
-      "path": "14-a-1/data.csv",
-      "name": "14-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "전체 연구예산 중 해양기술부문 연구에 할당된 예산비율"
     },
     {
       "path": "1-4-1/data.csv",
