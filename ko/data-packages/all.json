@@ -819,30 +819,6 @@
       "title": "재정 정책의 재분배 효과"
     },
     {
-      "path": "16-2-1/data.csv",
-      "name": "16-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "지난 1개월간 보호자로부터 체벌이나 심리적 위협을 경험한 적이 있는 1-17세 아동 비율"
-    },
-    {
       "path": "6-3-2/data.csv",
       "name": "6-3-2",
       "profile": "tabular-data-resource",
