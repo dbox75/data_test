@@ -2787,30 +2787,6 @@
       "title": "성에 근거한 비차별과 평등을 증진, 집행 그리고 추적할 수 있는 법적 체계 존재여부"
     },
     {
-      "path": "16-a-1/data.csv",
-      "name": "16-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "파리원칙(Paris Principles)에 따른 독립적인 국가인권기구의 존재"
-    },
-    {
       "path": "9-1-1/data.csv",
       "name": "9-1-1",
       "profile": "tabular-data-resource",
