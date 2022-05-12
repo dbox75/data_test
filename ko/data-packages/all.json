@@ -1371,30 +1371,6 @@
       "title": "총 고용 대비 제조업 고용 비율"
     },
     {
-      "path": "16-1-4/data.csv",
-      "name": "16-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "살고 있는 동네를 홀로 걸을 때 안전하다고 느끼는 인구 비율"
-    },
-    {
       "path": "14-c-1/data.csv",
       "name": "14-c-1",
       "profile": "tabular-data-resource",
