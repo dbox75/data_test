@@ -1179,30 +1179,6 @@
       "title": "가구 총지출 및 소득 대비 의료비과부담 인구 비율"
     },
     {
-      "path": "15-6-1/data.csv",
-      "name": "15-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "공정하고 공평한 혜택 분배를 보장하기 위해 입법적, 행정적 그리고 정책적 프레임워크를 채택한 국가의 수"
-    },
-    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -3793,30 +3769,6 @@
         ]
       },
       "title": "통합 수자원관리 이행 정도"
-    },
-    {
-      "path": "15-7-1/data.csv",
-      "name": "15-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "불법적으로 거래되거나 밀렵된 야생생물의 거래 비율"
     },
     {
       "path": "7-b-1/data.csv",
