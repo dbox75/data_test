@@ -651,30 +651,6 @@
       "title": "식량불안경험척도 기준으로 중간 또는 심각한 수준의 식량불안 경험인구 비율"
     },
     {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "최초 승인된 예산 중 정부 주요 지출액의 부문별 또는 예산코드별 비율"
-    },
-    {
       "path": "3-b-2/data.csv",
       "name": "3-b-2",
       "profile": "tabular-data-resource",
@@ -3483,30 +3459,6 @@
       "title": "NDCs, 장기전략, 국가적응계획 등을 보유한 국가의 수"
     },
     {
-      "path": "16-5-2/data.csv",
-      "name": "16-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "지난 12개월 동안 공무원을 최소한 1회 이상 접촉하여 뇌물을 주었거나 공무원으로부터 뇌물을 요구받았던 기업의 비율"
-    },
-    {
       "path": "2-c-1/data.csv",
       "name": "2-c-1",
       "profile": "tabular-data-resource",
@@ -4513,30 +4465,6 @@
         ]
       },
       "title": "국토면적 대비 황폐화 지역 비율"
-    },
-    {
-      "path": "16-6-2/data.csv",
-      "name": "16-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "가장 최근에 경험한 공공서비스에 대해 만족하는 인구비율"
     },
     {
       "path": "7-1-1/data.csv",
