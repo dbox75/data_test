@@ -3171,30 +3171,6 @@
       "title": "무역원조(Aid for Trade) 약정 및 지불"
     },
     {
-      "path": "15-1-2/data.csv",
-      "name": "15-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "육상 및 담수 생물다양성을 위한 보호지역 지정 비율 (생태계 유형별)"
-    },
-    {
       "path": "12-7-1/data.csv",
       "name": "12-7-1",
       "profile": "tabular-data-resource",
@@ -3481,30 +3457,6 @@
         ]
       },
       "title": "(i) 세계시민교육 (ii)지속가능발전교육이 (a)국가교육정책 (b) 교육과정 (c) 교사교육 (d) 학생평가 영역에서 주류화 된 정도"
-    },
-    {
-      "path": "15-2-1/data.csv",
-      "name": "15-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "지속가능한 산림경영 이행상황"
     },
     {
       "path": "13-2-2/data.csv",
