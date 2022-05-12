@@ -2523,30 +2523,6 @@
       "title": "국제인권법 차별금지기준으로 지난 12개월 동안 차별 또는 괴롭힘을 당했다고 느꼈음을 보고한 인구의 비율"
     },
     {
-      "path": "15-4-1/data.csv",
-      "name": "15-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "산림생물다양성 관련 중요 보호지역 면적"
-    },
-    {
       "path": "3-7-1/data.csv",
       "name": "3-7-1",
       "profile": "tabular-data-resource",
