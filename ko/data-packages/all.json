@@ -147,30 +147,6 @@
       "title": "은행이나 기타 금융기관, 혹은 모바일 금융서비스 제공자의 계좌를 보유하고 있는 (15세 이상) 성인인구 비율"
     },
     {
-      "path": "15-4-2/data.csv",
-      "name": "15-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "산림피복 지수"
-    },
-    {
       "path": "10-b-1/data.csv",
       "name": "10-b-1",
       "profile": "tabular-data-resource",
