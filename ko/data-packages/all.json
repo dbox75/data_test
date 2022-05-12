@@ -531,30 +531,6 @@
       "title": "(정규 초등교육 입학연령이 되기 1년 전) 조직화된 학습 참여 성별 비율"
     },
     {
-      "path": "15-8-1/data.csv",
-      "name": "15-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "외래침입종*의 유입 예방과 통제를 위해 국가 차원의 법률과 적당한 수단을 채택하고 있는 국가의 비율"
-    },
-    {
       "path": "8-10-1/data.csv",
       "name": "8-10-1",
       "profile": "tabular-data-resource",
@@ -3817,30 +3793,6 @@
         ]
       },
       "title": "통합 수자원관리 이행 정도"
-    },
-    {
-      "path": "15-7-1/data.csv",
-      "name": "15-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "불법적으로 거래되거나 밀렵된 야생생물의 거래 비율"
     },
     {
       "path": "7-b-1/data.csv",
