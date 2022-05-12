@@ -219,30 +219,6 @@
       "title": "성관계, 피임제 사용 및 생식보건에 대한 충분한 정보에 따라 스스로 의사결정을 하는 15-49세의 여성비율"
     },
     {
-      "path": "14-5-1/data.csv",
-      "name": "14-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "해양 면적 대비 보호구역의 비율"
-    },
-    {
       "path": "4-7-1/data.csv",
       "name": "4-7-1",
       "profile": "tabular-data-resource",
@@ -289,30 +265,6 @@
         ]
       },
       "title": "물 스트레스 수준"
-    },
-    {
-      "path": "14-6-1/data.csv",
-      "name": "14-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "불법·비보고·비규제 어업을 근절하기 위한 국제적 수단 이행 정도"
     },
     {
       "path": "7-1-2/data.csv",
@@ -697,30 +649,6 @@
         ]
       },
       "title": "주변 수질이 양호한 수계(bodies of water)*의 비율"
-    },
-    {
-      "path": "14-7-1/data.csv",
-      "name": "14-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "군소도서 개발국*, 최빈개도국 그리고 모든 국가의 GDP 중 지속가능한 어업 비율"
     },
     {
       "path": "5-c-1/data.csv",
