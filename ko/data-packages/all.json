@@ -4995,30 +4995,6 @@
       "title": "농업수출보조금"
     },
     {
-      "path": "16-3-3/data.csv",
-      "name": "16-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "지난 2년간 분쟁을 경험한 인구비율, 공식 혹은 비공식 절차를 이용하여 분쟁해결 한 인구비율"
-    },
-    {
       "path": "1-5-3/data.csv",
       "name": "1-5-3",
       "profile": "tabular-data-resource",
