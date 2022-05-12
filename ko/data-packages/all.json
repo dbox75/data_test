@@ -1971,6 +1971,30 @@
       "title": "자살 사망률"
     },
     {
+      "path": "12-2-1/data.csv",
+      "name": "12-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "총 및 1인당 물질발자국, GDP 대비 물질발자국"
+    },
+    {
       "path": "4-c-1/data.csv",
       "name": "4-c-1",
       "profile": "tabular-data-resource",
