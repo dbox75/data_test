@@ -2427,30 +2427,6 @@
       "title": "청년층 고용에 대한 국가 계획 개발 및 운영여부 – 별도 계획 혹은 국가 계획의 일부 인지 여부"
     },
     {
-      "path": "14-4-1/data.csv",
-      "name": "14-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "생물학적으로 지속 가능한 수준에서의 어족자원의 비율"
-    },
-    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
