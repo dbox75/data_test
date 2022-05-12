@@ -291,30 +291,6 @@
       "title": "청정연료 및 기술에 주로 의존하는 인구비율"
     },
     {
-      "path": "14-3-1/data.csv",
-      "name": "14-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "합의된 대표 표본 추출 지점들에서 측정되는 평균 해양산도(pH)"
-    },
-    {
       "path": "3-3-4/data.csv",
       "name": "3-3-4",
       "profile": "tabular-data-resource",
@@ -865,30 +841,6 @@
         ]
       },
       "title": "심혈관계질환, 암, 당뇨 또는 만성호흡기질환 사망률"
-    },
-    {
-      "path": "14-2-1/data.csv",
-      "name": "14-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "생태계 기반의 접근방식으로 해양지역을 관리하는 국가 수"
     },
     {
       "path": "3-3-2/data.csv",
