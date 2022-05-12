@@ -3363,30 +3363,6 @@
       "title": "(a) 1인당 발생시키는 유해폐기물과 (b) 유해폐기물 처리 비율(처리유형별)"
     },
     {
-      "path": "16-3-2/data.csv",
-      "name": "16-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "교도소 수용자 중 미결수 비율"
-    },
-    {
       "path": "13-2-1/data.csv",
       "name": "13-2-1",
       "profile": "tabular-data-resource",
