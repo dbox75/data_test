@@ -1275,30 +1275,6 @@
       "title": "일ㆍ생활균형 지수"
     },
     {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "global_indicators.1-3-1-title"
-    },
-    {
       "path": "4-a-1/data.csv",
       "name": "4-a-1",
       "profile": "tabular-data-resource",
