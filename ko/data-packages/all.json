@@ -339,30 +339,6 @@
       "title": "global_indicators.11-4-1-title"
     },
     {
-      "path": "8-2-1/data.csv",
-      "name": "8-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "global_indicators.8-2-1-title"
-    },
-    {
       "path": "10-7-1/data.csv",
       "name": "10-7-1",
       "profile": "tabular-data-resource",
@@ -745,30 +721,6 @@
         ]
       },
       "title": "여가활용 만족도"
-    },
-    {
-      "path": "8-10-2/data.csv",
-      "name": "8-10-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "global_indicators.8-10-2-title"
     },
     {
       "path": "3-2-2/data.csv",
