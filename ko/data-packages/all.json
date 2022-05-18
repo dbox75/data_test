@@ -555,30 +555,6 @@
       "title": "지역 고용률"
     },
     {
-      "path": "3-3-1/data.csv",
-      "name": "3-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "global_indicators.3-3-1-title"
-    },
-    {
       "path": "1-2-2/data.csv",
       "name": "1-2-2",
       "profile": "tabular-data-resource",
