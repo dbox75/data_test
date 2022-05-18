@@ -1515,30 +1515,6 @@
       "title": "유학생 수"
     },
     {
-      "path": "10-4-1/data.csv",
-      "name": "10-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "global_indicators.10-4-1-title"
-    },
-    {
       "path": "5-2-2/data.csv",
       "name": "5-2-2",
       "profile": "tabular-data-resource",
