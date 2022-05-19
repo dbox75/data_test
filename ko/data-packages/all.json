@@ -1417,6 +1417,30 @@
         ]
       },
       "title": "기초생활보장 수급자수"
+    },
+    {
+      "path": "5-4-2/data.csv",
+      "name": "5-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "인구증가율"
     }
   ]
 }
