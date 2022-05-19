@@ -1995,6 +1995,30 @@
       "title": "공공임대주택 수"
     },
     {
+      "path": "10-1-4/data.csv",
+      "name": "10-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "유아 천 명당 보육시설 수"
+    },
+    {
       "path": "9-6-6/data.csv",
       "name": "9-6-6",
       "profile": "tabular-data-resource",
