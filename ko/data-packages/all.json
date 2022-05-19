@@ -1011,6 +1011,30 @@
       "title": "월평균 임금"
     },
     {
+      "path": "9-2-6/data.csv",
+      "name": "9-2-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "학생 1인당 월평균 사교육비"
+    },
+    {
       "path": "5-4-6/data.csv",
       "name": "5-4-6",
       "profile": "tabular-data-resource",
