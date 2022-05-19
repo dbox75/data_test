@@ -2331,6 +2331,30 @@
       "title": "건강관련 삶의 질(EQ-5D)"
     },
     {
+      "path": "10-1-5/data.csv",
+      "name": "10-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "조혼인율/조이혼율"
+    },
+    {
       "path": "10-2-1/data.csv",
       "name": "10-2-1",
       "profile": "tabular-data-resource",
