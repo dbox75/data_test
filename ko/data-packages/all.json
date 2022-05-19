@@ -1011,6 +1011,30 @@
       "title": "주택 소유 비율"
     },
     {
+      "path": "9-4-3/data.csv",
+      "name": "9-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "주관적 소득수준"
+    },
+    {
       "path": "4-2-4/data.csv",
       "name": "4-2-4",
       "profile": "tabular-data-resource",
