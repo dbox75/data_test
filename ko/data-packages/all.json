@@ -1395,6 +1395,30 @@
       "title": "가구원당 평균 방의 개수"
     },
     {
+      "path": "9-6-1/data.csv",
+      "name": "9-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "주거환경 만족도"
+    },
+    {
       "path": "5-3-4/data.csv",
       "name": "5-3-4",
       "profile": "tabular-data-resource",
