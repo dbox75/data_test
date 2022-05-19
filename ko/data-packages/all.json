@@ -1995,6 +1995,30 @@
       "title": "인구 백만 명당 응급의료기관 수"
     },
     {
+      "path": "9-5-4/data.csv",
+      "name": "9-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "인구 십만 명당 문화기반시설 수"
+    },
+    {
       "path": "5-4-3/data.csv",
       "name": "5-4-3",
       "profile": "tabular-data-resource",
