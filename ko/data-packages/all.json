@@ -1227,6 +1227,30 @@
       "title": "인구순유입률"
     },
     {
+      "path": "10-7-4/data.csv",
+      "name": "10-7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "global_indicators.10-7-4-title"
+    },
+    {
       "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
