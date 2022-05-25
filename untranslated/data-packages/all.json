@@ -258,46 +258,6 @@
       "title": "global_indicators.1-1-1-title"
     },
     {
-      "path": "4-2-2/data.csv",
-      "name": "4-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "지역",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "서울",
-                "도쿄",
-                "오사카",
-                "뉴욕",
-                "토론토",
-                "파리",
-                "베를린",
-                "런던",
-                "스톡홀롬",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-2-2-title"
-    },
-    {
       "path": "4-2-3/data.csv",
       "name": "4-2-3",
       "profile": "tabular-data-resource",
@@ -1590,6 +1550,28 @@
         ]
       },
       "title": "global_indicators.6-1-2-title"
+    },
+    {
+      "path": "4-2-2/data.csv",
+      "name": "4-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-2-2-title"
     },
     {
       "path": "9-5-3/data.csv",

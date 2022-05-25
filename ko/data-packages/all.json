@@ -276,49 +276,6 @@
       "title": "인구성장률"
     },
     {
-      "path": "4-2-2/data.csv",
-      "name": "4-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "지역",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "뉴욕",
-                "도쿄",
-                "런던",
-                "베를린",
-                "서울",
-                "스톡홀롬",
-                "오사카",
-                "토론토",
-                "파리"
-              ]
-            },
-            "title": "지역"
-          }
-        ]
-      },
-      "title": "미세먼지(PM 2.5)에 노출량"
-    },
-    {
       "path": "4-2-3/data.csv",
       "name": "4-2-3",
       "profile": "tabular-data-resource",
@@ -1728,6 +1685,30 @@
         ]
       },
       "title": "연구개발투자비율(GDP 대비)"
+    },
+    {
+      "path": "4-2-2/data.csv",
+      "name": "4-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "미세먼지(PM 2.5)에 노출량"
     },
     {
       "path": "9-5-3/data.csv",
