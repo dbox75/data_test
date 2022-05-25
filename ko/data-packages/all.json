@@ -3,6 +3,49 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "독일",
+                "미국",
+                "스웨덴",
+                "영국",
+                "일본",
+                "캐나다",
+                "프랑스 ",
+                "한국",
+                "호주"
+              ]
+            },
+            "title": "지역"
+          }
+        ]
+      },
+      "title": "유학생 수"
+    },
+    {
       "path": "1-1-2/data.csv",
       "name": "1-1-2",
       "profile": "tabular-data-resource",
@@ -141,6 +184,91 @@
       "title": "가구원당 평균 방의 개수"
     },
     {
+      "path": "4-1-3/data.csv",
+      "name": "4-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "독일",
+                "미국",
+                "스웨덴",
+                "영국",
+                "일본",
+                "캐나다",
+                "한국",
+                "호주"
+              ]
+            },
+            "title": "지역"
+          }
+        ]
+      },
+      "title": "외국인 직접투자(FDI)"
+    },
+    {
+      "path": "4-2-1/data.csv",
+      "name": "4-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "독일",
+                "미국",
+                "스웨덴",
+                "영국",
+                "일본",
+                "캐나다",
+                "프랑스",
+                "한국",
+                "호주"
+              ]
+            },
+            "title": "지역"
+          }
+        ]
+      },
+      "title": "주거비 부담률"
+    },
+    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -181,6 +309,52 @@
         ]
       },
       "title": "고속도로 연장"
+    },
+    {
+      "path": "4-2-4/data.csv",
+      "name": "4-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "뉴욕",
+                "도쿄",
+                "런던",
+                "베이징",
+                "부산",
+                "상하이",
+                "서울",
+                "스톡홀롬",
+                "시드니",
+                "인천",
+                "토론토",
+                "파리"
+              ]
+            },
+            "title": "지역"
+          }
+        ]
+      },
+      "title": "행복지수"
     },
     {
       "path": "1-1-1/data.csv",
@@ -228,6 +402,92 @@
         ]
       },
       "title": "인구성장률"
+    },
+    {
+      "path": "4-2-2/data.csv",
+      "name": "4-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "뉴욕",
+                "도쿄",
+                "런던",
+                "베를린",
+                "서울",
+                "스톡홀롬",
+                "오사카",
+                "토론토",
+                "파리"
+              ]
+            },
+            "title": "지역"
+          }
+        ]
+      },
+      "title": "미세먼지(PM 2.5)에 노출량"
+    },
+    {
+      "path": "4-2-3/data.csv",
+      "name": "4-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "독일",
+                "미국",
+                "스웨덴",
+                "영국",
+                "일본",
+                "캐나다",
+                "프랑스",
+                "한국",
+                "호주"
+              ]
+            },
+            "title": "지역"
+          }
+        ]
+      },
+      "title": "활동하고 있는 의사"
     },
     {
       "path": "9-3-5/data.csv",
@@ -950,30 +1210,6 @@
       "title": "신재생에너지 보급률"
     },
     {
-      "path": "4-1-3/data.csv",
-      "name": "4-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "외국인 직접투자(FDI)"
-    },
-    {
       "path": "11-1-4/data.csv",
       "name": "11-1-4",
       "profile": "tabular-data-resource",
@@ -1116,30 +1352,6 @@
         ]
       },
       "title": "스트레스 인지율"
-    },
-    {
-      "path": "4-2-1/data.csv",
-      "name": "4-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "주거비 부담률"
     },
     {
       "path": "5-2-2/data.csv",
@@ -1598,30 +1810,6 @@
       "title": "연구개발투자비율(GDP 대비)"
     },
     {
-      "path": "4-2-2/data.csv",
-      "name": "4-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "미세먼지(PM 2.5)에 노출량"
-    },
-    {
       "path": "9-5-3/data.csv",
       "name": "9-5-3",
       "profile": "tabular-data-resource",
@@ -1668,30 +1856,6 @@
         ]
       },
       "title": "통근시간"
-    },
-    {
-      "path": "4-2-4/data.csv",
-      "name": "4-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "행복지수"
     },
     {
       "path": "5-3-3/data.csv",
@@ -2102,30 +2266,6 @@
       "title": "고등교육이수율"
     },
     {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "유학생 수"
-    },
-    {
       "path": "9-3-3/data.csv",
       "name": "9-3-3",
       "profile": "tabular-data-resource",
@@ -2508,30 +2648,6 @@
         ]
       },
       "title": "월세/전세 가격지수"
-    },
-    {
-      "path": "4-2-3/data.csv",
-      "name": "4-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "활동하고 있는 의사"
     },
     {
       "path": "3-1-1/data.csv",
