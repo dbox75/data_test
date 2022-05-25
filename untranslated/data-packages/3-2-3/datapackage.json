@@ -12,11 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "지역",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "한국",
+                "서울",
+                "경기",
+                "인천",
+                "일본",
+                "미국",
+                "캐나다",
+                "호주",
+                "파리(*프랑스)",
+                "베를린(*독일)",
+                "런던(*영국)",
+                "스톡홀롬(*스웨덴)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
