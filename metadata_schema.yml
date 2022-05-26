@@ -263,12 +263,12 @@ prose:
             translation_key: metadata_fields.OTHER_DOC
             scope: global
       ######### National Metadata #########
-      - name: SDG_INDICATOR_INFO
-        field:
-            element: text
-            label: Indicator information
-            translation_key: metadata_fields.SDG_INDICATOR_INFO
-            scope: national
+#      - name: SDG_INDICATOR_INFO
+#        field:
+#            element: text
+#            label: Indicator information
+#            translation_key: metadata_fields.SDG_INDICATOR_INFO
+#            scope: national
       - name: SDG_GOAL
         field:
             element: text
@@ -281,6 +281,66 @@ prose:
             label: Target
             translation_key: metadata_fields.SDG_TARGET
             scope: national
+# 지표명(삭제하면 안됨)
+      - name: "indicator_name"
+        field:
+            element: text
+            label: "Indicator name"
+            translation_key: metadata_fields.indicator_name
+            scope: national   
+# 정의
+      - name: "indicator_definition"
+        field:
+            element: text
+            label: "Definition"
+            translation_key: metadata_fields.indicator_definition
+            scope: national
+# 의의
+      - name: "indicator_importance"
+        field:
+            element: text
+            label: "Definition"
+            translation_key: metadata_fields.indicator_importance
+            scope: national
+#측정
+      - name: "computation_calculations"
+        field:
+            element: text
+            label: "Data sources"
+            translation_key: metadata_fields.computation_calculations
+            scope: national   
+#출처통계명
+      - name: "statistics_name"
+        field:
+            element: text
+            label: "Statistics name"
+            translation_key: metadata_fields.statistics_name
+            scope: national  
+      - name: "computation_units"
+        field:
+            element: text
+            label: Unit of measure
+            translation_key: metadata_fields.computation_units
+            scope: national
+      - name: "computation_coverage"
+        field:
+            element: text
+            label: "Data coverage"
+            translation_key: metadata_fields.computation_coverage
+            scope: national            
+      - name: "data_update"
+        field:
+            element: text
+            label: "data update"
+            translation_key: metadata_fields.data_update
+            scope: national  
+      - name: "data_download_date"
+        field:
+            element: text
+            label: "Data Download Date"
+            translation_key: metadata_fields.data_download_date
+            scope: national 
+
       - name: SDG_INDICATOR
         field:
             element: text
@@ -322,12 +382,6 @@ prose:
             element: text
             label: Contact person(s)
             translation_key: metadata_fields.CONTACT_NAME
-            scope: national
-      - name: ORGANISATION_UNIT
-        field:
-            element: text
-            label: Contact organisation unit
-            translation_key: metadata_fields.ORGANISATION_UNIT
             scope: national
       - name: CONTACT_FUNCT
         field:
@@ -1025,13 +1079,7 @@ prose:
             label: "Data type"
             translation_key: metadata_fields.computation_definitions
             scope: national
-# 지표명(삭제하면 안됨)
-      - name: "indicator_name"
-        field:
-            element: text
-            label: "Indicator name"
-            translation_key: metadata_fields.indicator_name
-            scope: national   
+
 #데이터명(1, 3유형에만 해당/ 2, 4유형은 삭제)
       - name: "data_name"
         field:
@@ -1039,26 +1087,8 @@ prose:
             label: "Data name"
             translation_key: metadata_fields.data_name
             scope: national      
-# 정의
-      - name: "indicator_definition"
-        field:
-            element: text
-            label: "Definition"
-            translation_key: metadata_fields.indicator_definition
-            scope: national
-#출처통계명
-      - name: "statistics_name"
-        field:
-            element: text
-            label: "Statistics name"
-            translation_key: metadata_fields.statistics_name
-            scope: national      
-#작성방법
-      - name: "computation_calculations"
-        field:
-            element: text
-            label: "Data sources"
-            translation_key: metadata_fields.computation_calculations
-            scope: national            
+
+    
+         
             
   ignore: ['/scripts', '/.github']
