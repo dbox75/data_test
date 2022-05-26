@@ -329,12 +329,7 @@ prose:
             label: "Data coverage"
             translation_key: metadata_fields.computation_coverage
             scope: national            
-      - name: "data_update"
-        field:
-            element: text
-            label: "data update"
-            translation_key: metadata_fields.data_update
-            scope: national  
+
       - name: "data_download_date"
         field:
             element: text
