@@ -14,7 +14,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -234,7 +234,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -636,7 +636,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
