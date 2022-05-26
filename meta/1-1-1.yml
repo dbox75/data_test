@@ -1,6 +1,6 @@
 SDG_GOAL: 자원
 SDG_TARGET: 인적 자원
-indicator_name: 인구성장률 - growth/shrinking index of the total population(2001=100)
+SDG_INDICATOR: 인구성장률 - growth/shrinking index of the total population(2001=100)
 indicator_definition: 인구성장률은 자연증가율과 사회적 증가율의 합으로 특정시점(2001년)을 기준으로 인구의 증감율을 나타내는 지표임
 indicator_importance: 한 국가의 인구 및 인구성장률은 그 국가의  장·단기 국가발전 계획수립에 있어 가장 기본적이고 근원적인 기초자료로서 인구와 관련된 각종 경제·사회 정책을 수립하는데 활용됨
 computation_calculations: 인구증가율 = (당해년 전체인구수÷2001년 전체인구수) x 100
