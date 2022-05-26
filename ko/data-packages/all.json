@@ -891,7 +891,7 @@
           }
         ]
       },
-      "title": "인구성장률"
+      "title": "인구성장률 - growth/shrinking index of the total population(2001=100)"
     },
     {
       "path": "4-2-2/data.csv",
