@@ -7,5 +7,4 @@ computation_calculations: 인구증가율 = (당해년 전체인구수÷2001년 
 statistics_name: OECD.stat > Regions and Cities > Regional Statistics > Regional Demography > demographic indicators by access to city typology. country level
 computation_units: "%"
 computation_coverage: 2001년 ~ 2021년
-data_update: 19 May 2022
-data_download_date: >-
+data_download_date: 19 May 2022
