@@ -9,7 +9,7 @@ computation_calculations: 고등교육이수자비율 = (대졸이상경제활�
 statistics_name: >-
   1. 해외 도시: OECD.stat > Regions and Cities > Regional Statistics> Region Innovation > Education attainment of the labour force
   2. 수도권: KOSIS > 행정구역(시도)/교육정도별 경제활동인구(https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7016S&conn_path=I3)
- * KOSIS 개편 시 통계표 URL은 달라질 수 있음
+  ※ KOSIS 개편 시 통계표 URL은 달라질 수 있음
 computation_units: "%"
 computation_coverage: >-
   OECD.stat: 2001년 ~ 2017년 / KOSIS: 2001년 ~ 2021년
