@@ -269,17 +269,13 @@ prose:
 #            label: Indicator information
 #            translation_key: metadata_fields.SDG_INDICATOR_INFO
 #            scope: national
-      - name: SDG_GOAL
+
+# 데이터유형
+      - name: "computation_definitions"
         field:
             element: text
-            label: Goal
-            translation_key: metadata_fields.SDG_GOAL
-            scope: national
-      - name: SDG_TARGET
-        field:
-            element: text
-            label: Target
-            translation_key: metadata_fields.SDG_TARGET
+            label: "Data type"
+            translation_key: metadata_fields.computation_definitions
             scope: national
 
       - name: SDG_INDICATOR
@@ -1063,13 +1059,7 @@ prose:
             translation_key: metadata_fields.source_other_info_1
             scope: source_6
             
-# 데이터유형
-      - name: "computation_definitions"
-        field:
-            element: text
-            label: "Data type"
-            translation_key: metadata_fields.computation_definitions
-            scope: national
+
 
 #데이터명(1, 3유형에만 해당/ 2, 4유형은 삭제)
       - name: "data_name"
@@ -1078,6 +1068,19 @@ prose:
             label: "Data name"
             translation_key: metadata_fields.data_name
             scope: national      
+
+      - name: SDG_GOAL
+        field:
+            element: text
+            label: Goal
+            translation_key: metadata_fields.SDG_GOAL
+            scope: national
+      - name: SDG_TARGET
+        field:
+            element: text
+            label: Target
+            translation_key: metadata_fields.SDG_TARGET
+            scope: national
 
 # 지표명(삭제하면 안됨)
 #      - name: "indicator_name"
