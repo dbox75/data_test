@@ -326,7 +326,7 @@ prose:
             translation_key: metadata_fields.computation_coverage
             scope: national            
 
-      - name: "data_download_date"
+      - name: "data_download"
         field:
             element: text
             label: "Data Download Date"
