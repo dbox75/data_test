@@ -8,7 +8,9 @@ indicator_importance: 국민 가운데 대학을 졸업한 인구가 많다는 �
 computation_calculations: 고등교육이수자비율 = (대졸이상경제활동인구수/전체 경제활동인구수) x 100
 statistics_name: >-
   1. 해외 도시: OECD.stat > Regions and Cities > Regional Statistics> Region Innovation > Education attainment of the labour force
+  
   2. 수도권: KOSIS > 행정구역(시도)/교육정도별 경제활동인구(https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7016S&conn_path=I3)
+  
   ※ KOSIS 개편 시 통계표 URL은 달라질 수 있음
 computation_units: "%"
 computation_coverage: >-
