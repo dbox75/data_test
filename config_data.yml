@@ -102,6 +102,7 @@ reporting_status_extra_fields: []
 # ----------------------
 # This controls the automatic documentation that is created for your build.
 #
+
 # This is the logo at the top of the automated documentation pages.
 docs_branding: SDG data build documentation
 # This displays at the top of the automated documentation homepage.
