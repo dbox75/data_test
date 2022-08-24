@@ -4,7 +4,6 @@
 # of those functions without altering Python code. 
 # Languages
 # ---------
-
 # This tells sdg-build to perform "translated builds" for each of the specified
 # languages. Each build is in its own subfolder - one for each language.
 
