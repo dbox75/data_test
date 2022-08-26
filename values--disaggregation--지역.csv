@@ -12,7 +12,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 베이징,3,3
 부산,1,1
 상하이,3,3
-서울,17,17
+서울,19,17
 수도권,12,12
 스웨덴,6,6
 스톡홀롬,16,16
@@ -23,6 +23,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 인천,14,14
 일본,11,11
 일본(*),1,1
+전국,1,1
 중국,1,1
 캐나다,12,12
 캐나다(*),3,3
